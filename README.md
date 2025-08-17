@@ -51,7 +51,7 @@ The dataset contains flight information with columns such as:
 - Duration
 - Price (Target variable)
 
-📂 The dataset is uploaded in the repository under the folder  Flight Fare/.
+🗂️ The dataset is uploaded in the repository under the folder  Flight Fare/.
 
 ---
 
