@@ -42,14 +42,14 @@ jupyter notebook flight_price.ipynb
 
 The dataset contains flight information with columns such as:
 
--Airline
--Date of Journey
--Source
--Destination
--Route
--Total Stops
--Duration
--Price (Target variable)
+- Airline
+- Date of Journey
+- Source
+- Destination
+- Route
+- Total Stops
+- Duration
+- Price (Target variable)
 
 
 📈 Model Training
