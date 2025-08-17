@@ -50,6 +50,9 @@ The dataset contains flight information with columns such as:
 - Total Stops
 - Duration
 - Price (Target variable)
+
+📂 The dataset is uploaded in the repository under the folder Flight Fare/.
+
 ---
 
 📈 Model Training
