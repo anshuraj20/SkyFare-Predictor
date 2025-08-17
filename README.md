@@ -58,7 +58,9 @@ Data preprocessing with handling missing values & categorical encoding
 Splitting dataset into train & test sets
 Training models (Random Forest, Decision Tree, etc.)
 Evaluating performance using RMSE, R² Score
+
 ---
+
 📂 Project Structure
 
 ```bash
