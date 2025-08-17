@@ -37,25 +37,20 @@ Run the Jupyter Notebook:
 jupyter notebook flight_price.ipynb
 ```
 
+
 📊 Dataset
 
 The dataset contains flight information with columns such as:
 
-Airline
+-Airline
+-Date of Journey
+-Source
+-Destination
+-Route
+-Total Stops
+-Duration
+-Price (Target variable)
 
-Date of Journey
-
-Source
-
-Destination
-
-Route
-
-Total Stops
-
-Duration
-
-Price (Target variable)
 
 📈 Model Training
 
