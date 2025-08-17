@@ -36,7 +36,7 @@ Run the Jupyter Notebook:
 ```bash
 jupyter notebook flight_price.ipynb
 ```
-
+---
 
 📊 Dataset
 
@@ -50,7 +50,7 @@ The dataset contains flight information with columns such as:
 - Total Stops
 - Duration
 - Price (Target variable)
-
+---
 
 📈 Model Training
 
@@ -58,7 +58,7 @@ Data preprocessing with handling missing values & categorical encoding
 Splitting dataset into train & test sets
 Training models (Random Forest, Decision Tree, etc.)
 Evaluating performance using RMSE, R² Score
-
+---
 📂 Project Structure
 
 ```bash
