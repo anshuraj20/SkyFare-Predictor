@@ -54,10 +54,10 @@ The dataset contains flight information with columns such as:
 
 📈 Model Training
 
-Data preprocessing with handling missing values & categorical encoding
-Splitting dataset into train & test sets
-Training models (Random Forest, Decision Tree, etc.)
-Evaluating performance using RMSE, R² Score
+- Data preprocessing with handling missing values & categorical encoding
+- Splitting dataset into train & test sets
+- Training models (Random Forest, Decision Tree, etc.)
+- Evaluating performance using RMSE, R² Score
 
 ---
 
